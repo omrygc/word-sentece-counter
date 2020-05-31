@@ -1,0 +1,6 @@
+C:\Users\omer\source\repos\ConsoleApp1\WordSentenceCounter\bin\Debug\WordSentenceCounter.exe.config
+C:\Users\omer\source\repos\ConsoleApp1\WordSentenceCounter\bin\Debug\WordSentenceCounter.exe
+C:\Users\omer\source\repos\ConsoleApp1\WordSentenceCounter\bin\Debug\WordSentenceCounter.pdb
+C:\Users\omer\source\repos\ConsoleApp1\WordSentenceCounter\obj\Debug\WordSentenceCounter.csproj.CoreCompileInputs.cache
+C:\Users\omer\source\repos\ConsoleApp1\WordSentenceCounter\obj\Debug\WordSentenceCounter.exe
+C:\Users\omer\source\repos\ConsoleApp1\WordSentenceCounter\obj\Debug\WordSentenceCounter.pdb
